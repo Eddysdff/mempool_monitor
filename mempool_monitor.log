@@ -1,0 +1,98 @@
+2025-01-11 11:28:30,886 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:28:30,887 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:28:36,204 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:28:36,204 - ERROR - ¼àÌý´íÎó: {'code': -32602, 'message': 'filter not found'}
+2025-01-11 11:28:46,175 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:28:46,175 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:28:51,698 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:28:51,698 - ERROR - ¼àÌý´íÎó: {'code': -32603, 'message': 'Internal error', 'data': 'System.OverflowException: Cannot convert UInt256 value to int.\n   at Nethermind.JsonRpc.Modules.Eth.EthRpcModule.eth_getFilterChanges(UInt256 filterId) in /src/Nethermind/Nethermind.JsonRpc/Modules/Eth/EthRpcModule.cs:line 526\n   at InvokeStub_IEthRpcModule.eth_getFilterChanges(Object, Object, Object, Object, Object)\n   at System.Reflection.MethodInvoker.InvokeImpl(Object obj, Object arg1, Object arg2, Object arg3, Object arg4)\n   at System.Reflection.MethodInvoker.Invoke(Object obj, Span`1 arguments)\n   at Nethermind.JsonRpc.JsonRpcService.ExecuteAsync(JsonRpcRequest request, String methodName, ResolvedMethodInfo method, JsonRpcContext context) in /src/Nethermind/Nethermind.JsonRpc/JsonRpcService.cs:line 176'}
+2025-01-11 11:28:57,139 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:28:57,140 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:29:06,079 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:29:06,079 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:29:13,860 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:29:13,860 - ERROR - ¼àÌý´íÎó: {'code': -32603, 'message': 'Internal error', 'data': 'System.OverflowException: Cannot convert UInt256 value to int.\n   at Nethermind.JsonRpc.Modules.Eth.EthRpcModule.eth_getFilterChanges(UInt256 filterId) in /src/Nethermind/Nethermind.JsonRpc/Modules/Eth/EthRpcModule.cs:line 526\n   at InvokeStub_IEthRpcModule.eth_getFilterChanges(Object, Object, Object, Object, Object)\n   at System.Reflection.MethodInvoker.InvokeImpl(Object obj, Object arg1, Object arg2, Object arg3, Object arg4)\n   at System.Reflection.MethodInvoker.Invoke(Object obj, Span`1 arguments)\n   at Nethermind.JsonRpc.JsonRpcService.ExecuteAsync(JsonRpcRequest request, String methodName, ResolvedMethodInfo method, JsonRpcContext context) in /src/Nethermind/Nethermind.JsonRpc/JsonRpcService.cs:line 176'}
+2025-01-11 11:29:19,835 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:29:19,835 - ERROR - ¼àÌý´íÎó: {'code': -32603, 'message': 'Internal error', 'data': 'System.OverflowException: Cannot convert UInt256 value to int.\n   at Nethermind.JsonRpc.Modules.Eth.EthRpcModule.eth_getFilterChanges(UInt256 filterId) in /src/Nethermind/Nethermind.JsonRpc/Modules/Eth/EthRpcModule.cs:line 526\n   at InvokeStub_IEthRpcModule.eth_getFilterChanges(Object, Object, Object, Object, Object)\n   at System.Reflection.MethodInvoker.InvokeImpl(Object obj, Object arg1, Object arg2, Object arg3, Object arg4)\n   at System.Reflection.MethodInvoker.Invoke(Object obj, Span`1 arguments)\n   at Nethermind.JsonRpc.JsonRpcService.ExecuteAsync(JsonRpcRequest request, String methodName, ResolvedMethodInfo method, JsonRpcContext context) in /src/Nethermind/Nethermind.JsonRpc/JsonRpcService.cs:line 176'}
+2025-01-11 11:29:25,245 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:29:25,245 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:29:30,632 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:29:30,632 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:29:36,071 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:29:36,071 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:29:43,969 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:29:43,969 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:29:49,464 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:29:49,465 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:29:54,977 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:29:54,977 - ERROR - ¼àÌý´íÎó: {'code': -32603, 'message': 'Internal error', 'data': 'System.OverflowException: Cannot convert UInt256 value to int.\n   at Nethermind.JsonRpc.Modules.Eth.EthRpcModule.eth_getFilterChanges(UInt256 filterId) in /src/Nethermind/Nethermind.JsonRpc/Modules/Eth/EthRpcModule.cs:line 526\n   at InvokeStub_IEthRpcModule.eth_getFilterChanges(Object, Object, Object, Object, Object)\n   at System.Reflection.MethodInvoker.InvokeImpl(Object obj, Object arg1, Object arg2, Object arg3, Object arg4)\n   at System.Reflection.MethodInvoker.Invoke(Object obj, Span`1 arguments)\n   at Nethermind.JsonRpc.JsonRpcService.ExecuteAsync(JsonRpcRequest request, String methodName, ResolvedMethodInfo method, JsonRpcContext context) in /src/Nethermind/Nethermind.JsonRpc/JsonRpcService.cs:line 176'}
+2025-01-11 11:30:00,424 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:30:00,425 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:30:07,748 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:30:07,748 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:30:14,020 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:30:14,020 - ERROR - ¼àÌý´íÎó: {'code': -32603, 'message': 'Internal error', 'data': 'System.OverflowException: Cannot convert UInt256 value to int.\n   at Nethermind.JsonRpc.Modules.Eth.EthRpcModule.eth_getFilterChanges(UInt256 filterId) in /src/Nethermind/Nethermind.JsonRpc/Modules/Eth/EthRpcModule.cs:line 526\n   at InvokeStub_IEthRpcModule.eth_getFilterChanges(Object, Object, Object, Object, Object)\n   at System.Reflection.MethodInvoker.InvokeImpl(Object obj, Object arg1, Object arg2, Object arg3, Object arg4)\n   at System.Reflection.MethodInvoker.Invoke(Object obj, Span`1 arguments)\n   at Nethermind.JsonRpc.JsonRpcService.ExecuteAsync(JsonRpcRequest request, String methodName, ResolvedMethodInfo method, JsonRpcContext context) in /src/Nethermind/Nethermind.JsonRpc/JsonRpcService.cs:line 176'}
+2025-01-11 11:30:19,552 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:30:19,552 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:30:24,994 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:30:24,994 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:30:30,596 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:30:30,596 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:30:36,041 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:30:36,041 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:30:45,452 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:30:45,452 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:30:50,824 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:30:50,825 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:30:58,111 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:30:58,111 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:31:03,496 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:31:03,496 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:31:08,871 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:31:08,872 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:31:14,230 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:31:14,230 - ERROR - ¼àÌý´íÎó: {'code': -32603, 'message': 'Internal error', 'data': 'System.OverflowException: Cannot convert UInt256 value to int.\n   at Nethermind.JsonRpc.Modules.Eth.EthRpcModule.eth_getFilterChanges(UInt256 filterId) in /src/Nethermind/Nethermind.JsonRpc/Modules/Eth/EthRpcModule.cs:line 526\n   at InvokeStub_IEthRpcModule.eth_getFilterChanges(Object, Object, Object, Object, Object)\n   at System.Reflection.MethodInvoker.InvokeImpl(Object obj, Object arg1, Object arg2, Object arg3, Object arg4)\n   at System.Reflection.MethodInvoker.Invoke(Object obj, Span`1 arguments)\n   at Nethermind.JsonRpc.JsonRpcService.ExecuteAsync(JsonRpcRequest request, String methodName, ResolvedMethodInfo method, JsonRpcContext context) in /src/Nethermind/Nethermind.JsonRpc/JsonRpcService.cs:line 176'}
+2025-01-11 11:31:19,682 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:31:19,682 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:31:25,241 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:31:25,242 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:31:30,612 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:31:30,612 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:31:48,812 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:31:48,812 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:31:54,118 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:31:54,118 - ERROR - ¼àÌý´íÎó: {'code': -32602, 'message': 'filter not found'}
+2025-01-11 11:31:59,556 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:31:59,556 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:32:04,926 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:32:04,926 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:32:10,881 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:32:10,881 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:32:17,009 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:32:17,009 - ERROR - ¼àÌý´íÎó: {'code': -32603, 'message': 'Internal error', 'data': 'System.OverflowException: Cannot convert UInt256 value to int.\n   at Nethermind.JsonRpc.Modules.Eth.EthRpcModule.eth_getFilterChanges(UInt256 filterId) in /src/Nethermind/Nethermind.JsonRpc/Modules/Eth/EthRpcModule.cs:line 526\n   at InvokeStub_IEthRpcModule.eth_getFilterChanges(Object, Object, Object, Object, Object)\n   at System.Reflection.MethodInvoker.InvokeImpl(Object obj, Object arg1, Object arg2, Object arg3, Object arg4)\n   at System.Reflection.MethodInvoker.Invoke(Object obj, Span`1 arguments)\n   at Nethermind.JsonRpc.JsonRpcService.ExecuteAsync(JsonRpcRequest request, String methodName, ResolvedMethodInfo method, JsonRpcContext context) in /src/Nethermind/Nethermind.JsonRpc/JsonRpcService.cs:line 176'}
+2025-01-11 11:32:22,388 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:32:22,389 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:32:32,345 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:32:32,345 - ERROR - ¼àÌý´íÎó: {'code': -32603, 'message': 'Internal error', 'data': 'System.OverflowException: Cannot convert UInt256 value to int.\n   at Nethermind.JsonRpc.Modules.Eth.EthRpcModule.eth_getFilterChanges(UInt256 filterId) in /src/Nethermind/Nethermind.JsonRpc/Modules/Eth/EthRpcModule.cs:line 526\n   at InvokeStub_IEthRpcModule.eth_getFilterChanges(Object, Object, Object, Object, Object)\n   at System.Reflection.MethodInvoker.InvokeImpl(Object obj, Object arg1, Object arg2, Object arg3, Object arg4)\n   at System.Reflection.MethodInvoker.Invoke(Object obj, Span`1 arguments)\n   at Nethermind.JsonRpc.JsonRpcService.ExecuteAsync(JsonRpcRequest request, String methodName, ResolvedMethodInfo method, JsonRpcContext context) in /src/Nethermind/Nethermind.JsonRpc/JsonRpcService.cs:line 176'}
+2025-01-11 11:32:37,727 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:32:37,727 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:32:43,884 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:32:43,884 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:32:49,447 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:32:49,447 - ERROR - ¼àÌý´íÎó: {'code': -32603, 'message': 'Internal error', 'data': 'System.OverflowException: Cannot convert UInt256 value to int.\n   at Nethermind.JsonRpc.Modules.Eth.EthRpcModule.eth_getFilterChanges(UInt256 filterId) in /src/Nethermind/Nethermind.JsonRpc/Modules/Eth/EthRpcModule.cs:line 526\n   at InvokeStub_IEthRpcModule.eth_getFilterChanges(Object, Object, Object, Object, Object)\n   at System.Reflection.MethodInvoker.InvokeImpl(Object obj, Object arg1, Object arg2, Object arg3, Object arg4)\n   at System.Reflection.MethodInvoker.Invoke(Object obj, Span`1 arguments)\n   at Nethermind.JsonRpc.JsonRpcService.ExecuteAsync(JsonRpcRequest request, String methodName, ResolvedMethodInfo method, JsonRpcContext context) in /src/Nethermind/Nethermind.JsonRpc/JsonRpcService.cs:line 176'}
+2025-01-11 11:32:54,888 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:32:54,888 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:33:00,401 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:33:00,401 - ERROR - ¼àÌý´íÎó: {'code': -32603, 'message': 'Internal error', 'data': 'System.OverflowException: Cannot convert UInt256 value to int.\n   at Nethermind.JsonRpc.Modules.Eth.EthRpcModule.eth_getFilterChanges(UInt256 filterId) in /src/Nethermind/Nethermind.JsonRpc/Modules/Eth/EthRpcModule.cs:line 526\n   at InvokeStub_IEthRpcModule.eth_getFilterChanges(Object, Object, Object, Object, Object)\n   at System.Reflection.MethodInvoker.InvokeImpl(Object obj, Object arg1, Object arg2, Object arg3, Object arg4)\n   at System.Reflection.MethodInvoker.Invoke(Object obj, Span`1 arguments)\n   at Nethermind.JsonRpc.JsonRpcService.ExecuteAsync(JsonRpcRequest request, String methodName, ResolvedMethodInfo method, JsonRpcContext context) in /src/Nethermind/Nethermind.JsonRpc/JsonRpcService.cs:line 176'}
+2025-01-11 11:33:07,752 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:33:07,752 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:33:14,014 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:33:14,014 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:33:19,443 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:33:19,443 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:33:30,148 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:33:30,148 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:33:47,904 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:33:47,904 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
+2025-01-11 11:33:53,346 - ERROR - An RPC error was returned by the node. Check the message provided in the error and any available logs for more information.
+2025-01-11 11:33:53,346 - ERROR - ¼àÌý´íÎó: {'code': -32000, 'message': 'filter not found'}
